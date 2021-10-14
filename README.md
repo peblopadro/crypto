@@ -14,5 +14,5 @@ They are financial in nature within the scope of statistics and machine learning
 - Regime Switching Modeling
 - STL Loess Decomposition
 - Bayesian Regression
-- Hierarchical (bayesian) Modeling give different Trend breakpoints
+- Hierarchical (bayesian) Modeling defined by the different breakpoints in the trend of a cryptocurrency
 
