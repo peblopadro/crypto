@@ -20,6 +20,7 @@ They are financial in nature within the scope of statistics and machine learning
 - PortfolioAnalysis:
   - Rolling yearly Beta (factor exposure) of Bitcoin since 2014
   - Quarterly Volatility for BTC
+  - Daily drawdown (max % loss from a market peak)
   - Portoflio optimization using top 30 cryptocurrencies with returns since 2014
     - Max Sharpe portfolio weights
     - Min Volatility portfolio weights
